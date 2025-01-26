@@ -1,17 +1,15 @@
 # Hello, I'm AHMEDD
 <a href="www.linkedin.com/in/ahmed-alaa-a15b2825b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
 
 I am a recent graduate with a passion for cybersecurity, dedicated to protecting digital assets and solving security challenges.
 
 ## Objective
-[Provide Objective ]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project ]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
